@@ -1,1 +1,13 @@
-Test
+{
+  "server-address": ["fredima.de, mc.fredima.de, pkv2.ipv64.net"],
+  "pretty-name": "fredima.de",
+  "categorys": ["CUSTOM"],
+  "assets": {
+    "icon": "./icon.png",
+    "background": "./bg.png"
+  },
+  "socials": {
+    "website": "fredima.de"
+  },
+  "disabled-modules": ["HEALTH_INDICATORS", "NO_FOG"]
+}
